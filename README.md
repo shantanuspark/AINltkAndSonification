@@ -53,7 +53,7 @@ Website created using genetic algorithm:
 Follow the command line interface to select the appropriate options, you will have to select the webpages you liked in each generation. 
  <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/websiteCreateCLI.png" />
 
-Below are 2 samples of webpages created:
+Below are 2 samples of webpages created: <br />
  <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/website.jpg" />
- <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/website.jpg" />
+ <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/website2.jpg" />
 
