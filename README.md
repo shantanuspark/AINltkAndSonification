@@ -1,4 +1,4 @@
-# AINltkAndSonification
+# Natural language processing using NLTK, Sonification(image and text) And Genetic algorithm to a create website 
 Using jython music to sonify images and text data. 
 Using NLTK to read understand e-books scrapped online. 
 Counting and plotting frequency distribution of interactions between people in the books. 
@@ -51,10 +51,9 @@ Output image shown as below:
 
 Website created using genetic algorithm:
 Follow the command line interface to select the appropriate options, you will have to select the webpages you liked in each generation. 
- 
+ <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/websiteCreateCLI.png" />
 
 Below are 2 samples of webpages created:
  <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/website.jpg" />
- 
-  <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/website.jpg" />
+ <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/website.jpg" />
 
