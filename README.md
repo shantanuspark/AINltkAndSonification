@@ -7,11 +7,11 @@ Dynamically creating a website using genetic algorithm using entities(Person, lo
 I.	Program Execution
 
 1.	Sonify temperature data – 
-a.	Execute file SHANTANU_temperatureMusic.py in the JEM editor
+a.	Execute file SHANTANU_temperatureMusic.py in the JEM editor<br />
 b.	Execute file temperaturePlot.py to get the line plot, output is as below:
 <img src = "https://github.com/shantanuspark/AINltkAndSonification/blob/master/output_images/temperaturePlot.png" />
  
-Have plotted data only of first four years,  but we can see the pattern (mountains-valleys) in the plot, same is evident in the music as well, high pitched notes followed by low pitched followed again by high pitched notes. 
+Plotted only the first four year's temperature data,  but we can see the pattern (mountains-valleys) in the plot, same is evident in the music as well, high pitched notes followed by low pitched followed again by high pitched notes. 
 2.	Sonify grayscale image –
 a.	Execute file SHANTANU_grayScaleSonify.py in the JEM editor
 
