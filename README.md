@@ -1,4 +1,4 @@
-# Natural language processing using NLTK, sonification(image and text) And genetic algorithm to a create website 
+# Natural language processing(NLTK), sonification(image and text) and genetic algorithm to a create website 
 Using jython music to sonify images and text data. 
 Using NLTK to read understand e-books scrapped online. 
 Counting and plotting frequency distribution of interactions between people in the books. 
